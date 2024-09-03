@@ -4,7 +4,7 @@ collection: publications
 category: Working_Paper
 permalink: /publication/Foreign Exchange Interventions and Intermediary Constraints
 excerpt: 'With Alex Ferreira, Rory Mullen, Giovanni Ricco and Ganesh Viswanath-Natraj.'
-3date: 2024-09-04
+#date: 2024-09-04
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
