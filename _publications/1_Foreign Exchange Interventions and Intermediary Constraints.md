@@ -1,8 +1,8 @@
 ---
 title: "Foreign Exchange Interventions and Intermediary Constraints"
-#collection: publications
-#category: manuscripts
-#permalink: /publication/Foreign Exchange Interventions and Intermediary Constraints
+collection: publications
+category: Working_Paper
+permalink: /publication/Foreign Exchange Interventions and Intermediary Constraints
 excerpt: 'With Alex Ferreira, Rory Mullen, Giovanni Ricco and Ganesh Viswanath-Natraj.'
 date: 2009-10-01
 venue: 'Journal 1'

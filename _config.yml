@@ -75,11 +75,9 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
+  Working_Paper:
     title: 'Working Paper'    
-  conferences:
+  Work_in_Progress:
     title: 'Work in Progress'
 
 # Site Settings
