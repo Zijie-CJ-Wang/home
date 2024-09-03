@@ -11,9 +11,8 @@ redirect_from:
 
 Working Paper
 ======
-* "Foreign Exchange Interventions and Intermediary Constraints" 
-With Alex Ferreira, Rory Mullen, Giovanni Ricco and Ganesh Viswanath-Natraj. 
-[Paper]() 
+* Foreign Exchange Interventions and Intermediary Constraints (With Alex Ferreira, Rory Mullen, Giovanni Ricco and Ganesh Viswanath-Natraj). 
+[Coming Soon]() 
   
 Work in Progress
 ======
