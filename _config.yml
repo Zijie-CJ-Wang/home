@@ -12,9 +12,9 @@ title                    : "Zijie Wang"
 title_separator          : "-"
 name                     : &name "Zijie Wang"
 description              : &description "personal description"
-url                      : https://zijie-cj-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zijie-cj-wang.github.io/zijie/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zijie-cj-wang.github.io/zijie"
+repository               : "Zijie-CJ-Wang/zijie"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
