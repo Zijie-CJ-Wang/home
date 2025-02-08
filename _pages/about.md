@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Ph.D student in Finance at Warwick Business School. I work on **International Finance**, **Asseting Pricing**, and **Macro-Finance**.
 
-[CV](https://github.com/Zijie-CJ-Wang/home/tree/master/files/CV_Zijie_Wang_2025.pdf) 
+[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2025.pdf) 
 
 [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
