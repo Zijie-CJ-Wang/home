@@ -23,7 +23,7 @@ repository               : "Zijie-CJ-Wang/home"
 author:
   # Biographic information
   avatar           : "NY_pic_v2.jpg"
-  name             : "Zijie Wang"
+  name             : #"Zijie Wang"
   pronouns         : # example: "she/her"  
   bio              : #
   location         : #
