@@ -15,14 +15,14 @@ name                     : &name "Zijie Wang"
 description              : &description "personal description"
 url                      : https://zijie-cj-wang.github.io/home/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/Zijie-CJ-Wang/home"
+repository               : "Zijie-CJ-Wang/home"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "NY_pic_2025_v2.jpg"
+  avatar           : "NY_pic_v2.jpg"
   name             : "Zijie Wang"
   pronouns         : # example: "she/her"  
   bio              : #
