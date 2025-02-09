@@ -24,18 +24,16 @@ RCEA International Conference, 24th Brazilian Finance Annual Meeting, 2024 CEBRA
 2. International Illiquidity and Foreign Exchange
 
 ## Teaching
-### Warwick Business School
+* Warwick Business School
 
-### IB93F0 Research Methdology, Msc in Finance
+  * IB93F0 Research Methdology, Msc in Finance
 
-Graduate Teaching Assistant, Warwick Business School, 2023-2025
+  Graduate Teaching Assistant, 2023-2025
 
-### IB9520 Research Methdology for Financial Management, Msc in Business & Finance
+  * IB9520 Research Methdology for Financial Management, Msc in Business & Finance
 
-Graduate Teaching Assistant, Warwick Business School, 2023-2025
+  Graduate Teaching Assistant, 2023-2025
 
-### IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance
+  * IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance
 
-Graduate Teaching Assistant, Warwick Business School, 2024-2025
-
->>>>>>> e972374c0fe14408170a4741cee77a76c2562e4d
+  Graduate Teaching Assistant, 2024-2025
