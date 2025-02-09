@@ -26,14 +26,14 @@ RCEA International Conference, 24th Brazilian Finance Annual Meeting, 2024 CEBRA
 ## Teaching
 * Warwick Business School
 
-  * IB93F0 Research Methdology, Msc in Finance
+  **IB93F0 Research Methdology, Msc in Finance**
 
   Graduate Teaching Assistant, 2023-2025
 
-  * IB9520 Research Methdology for Financial Management, Msc in Business & Finance
+  **IB9520 Research Methdology for Financial Management, Msc in Business & Finance**
 
   Graduate Teaching Assistant, 2023-2025
 
-  * IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance
+  **IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance**
 
   Graduate Teaching Assistant, 2024-2025
