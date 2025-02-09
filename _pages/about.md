@@ -37,3 +37,5 @@ Graduate Teaching Assistant, Warwick Business School, 2023-2025
 ### IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance
 
 Graduate Teaching Assistant, Warwick Business School, 2024-2025
+
+>>>>>>> e972374c0fe14408170a4741cee77a76c2562e4d
