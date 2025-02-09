@@ -20,4 +20,6 @@ RCEA International Conference, 24th Brazilian Finance Annual Meeting, 2024 CEBRA
 
 
 ## Work in Progress
+1. Offshore Forwards in Emerging Markets: Speculation and Price Discovery
 
+2. International Illiquidity and Foreign Exchange
