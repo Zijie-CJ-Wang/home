@@ -24,7 +24,7 @@ RCEA International Conference, 24th Brazilian Finance Annual Meeting, 2024 CEBRA
 2. International Illiquidity and Foreign Exchange
 
 ## Teaching
-* Warwick Business School
+* **Warwick Business School**
 
   **IB93F0 Research Methdology, Msc in Finance**
 
