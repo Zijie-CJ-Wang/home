@@ -18,8 +18,22 @@ I'm a Ph.D student in Finance at Warwick Business School. I work on **Internatio
 **Selected Presentations**: Brazilian Central Bank, 2024 CEPR Workshop on Macroeconomic Policy in Emerging Markets, 2024
 RCEA International Conference, 24th Brazilian Finance Annual Meeting, 2024 CEBRA Annual Meeting, 2024 Warsaw Macro-Finance Conference, and 2024 RES PhD conference.
 
-
 ## Work in Progress
 1. Offshore Forwards in Emerging Markets: Speculation and Price Discovery
 
 2. International Illiquidity and Foreign Exchange
+
+## Teaching
+### Warwick Business School
+
+### IB93F0 Research Methdology, Msc in Finance
+
+Graduate Teaching Assistant, Warwick Business School, 2023-2025
+
+### IB9520 Research Methdology for Financial Management, Msc in Business & Finance
+
+Graduate Teaching Assistant, Warwick Business School, 2023-2025
+
+### IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance
+
+Graduate Teaching Assistant, Warwick Business School, 2024-2025
