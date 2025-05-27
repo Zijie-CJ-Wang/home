@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in Finance at Warwick Business School. I work on **International Finance**, **Asseting Pricing**, and **Macro-Finance**.
+I'm a Ph.D student in Finance at Warwick Business School. I work on **International Finance**, **Asset Pricing**, and **Macro-Finance**.
 
 [CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2025.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
