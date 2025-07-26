@@ -13,14 +13,16 @@ I'm a Ph.D student in Finance at Warwick Business School. I work on **Internatio
 
 
 ## Working Paper
-1. Foreign Exchange Interventions and Intermediary Constraints (with A. Ferreira, R. Mullen, G. Ricco and G. Viswanath-Natraj). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307)
+1. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (With Barry Eichengreen, Ganesh Viswanath-Natraj, Junxuan Wang). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862)   
+
+2. Foreign Exchange Interventions and Intermediary Constraints (with Alex Luiz Ferreira, Rory Mullen, Giovanni Ricco and Ganesh Viswanath-Natraj). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307)
 
     **Selected Presentations**: WFA (2025, Snowbird), SFS Cavalcade NA (2025, NJ), European Central Bank, Brazilian Central Bank, 2024 CEPR Workshop on Macroeconomic Policy in Emerging Markets, 2024 RCEA International Conference, 24th Brazilian Finance Annual Meeting, 2024 CEBRA Annual Meeting, 2024 Warsaw Macro-Finance Conference.
+
 
 ## Work in Progress
 1. Offshore Forwards in Emerging Markets: Speculation and Price Discovery
 
-2. International Illiquidity and Foreign Exchange
 
 ## Teaching
 * **Warwick Business School**
