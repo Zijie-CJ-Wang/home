@@ -13,7 +13,7 @@ I'm a Ph.D student in Finance at Warwick Business School. I work on **Internatio
 
 
 ## Working Paper
-1. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (With Barry Eichengreen, Ganesh Viswanath-Natraj, Junxuan Wang). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862)   
+1. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (With <a href="https://eml.berkeley.edu//~eichengr/vitae.html" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862)   
 
 2. Foreign Exchange Interventions and Intermediary Constraints (with <a href="https://sites.google.com/usp.br/alexferreira/home" style="color: inherit;"><em>Alex Luiz Ferreira</em></a>, <a href="https://rorymullen.net/" style="color: inherit;"><em>Rory Mullen</em></a>, <a href="https://www.giovanni-ricco.com/" style="color: inherit;"><em>Giovanni Ricco</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307)
 
