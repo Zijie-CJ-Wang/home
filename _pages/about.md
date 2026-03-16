@@ -13,7 +13,7 @@ I'm a Ph.D student in Finance at Warwick Business School. I work on **Internatio
 
 
 ## Working Paper
-1. Who Captures AI Deflation? Quality-Adjusted Prices, Markups, and Pass-Through in AI Services. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6425839)
+1. Who Captures AI Deflation? Quality-Adjusted Prices, Markups, and Pass-Through in AI Services. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426025)
 
 2. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (With <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
 
