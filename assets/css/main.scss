@@ -53,7 +53,7 @@ body {
 .masthead__menu-item--lg,
 .masthead__menu-item--lg a {
   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 /* Sidebar author name */
@@ -70,7 +70,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-/* Sidebar Follow links (Google Scholar, etc.) */
-.author__urls-wrapper {
+// /* Sidebar Follow links (Google Scholar, etc.) */
+// .author__urls-wrapper {
+//   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+// }
+
+.author__urls-wrapper,
+.author__urls-wrapper a {
   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
 }
