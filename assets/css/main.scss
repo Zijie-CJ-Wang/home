@@ -46,6 +46,7 @@
 /* Body text */
 body {
   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+  font-weight: 500;
 }
 
 /* Masthead site title (top-left) */
@@ -58,6 +59,7 @@ body {
 /* Sidebar author name */
 .sidebar .author__name {
   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+  font-weight: 600;
 }
 
 /* Page title and all section headings */
@@ -66,4 +68,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
   font-weight: 600;
+}
+
+/* Sidebar Follow links (Google Scholar, etc.) */
+.author__urls-wrapper {
+  font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
 }
