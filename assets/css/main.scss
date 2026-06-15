@@ -41,13 +41,26 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* Cormorant Garamond + Noto Serif SC for name and headers */
-.site-title,
-.author__name {
+/* Cormorant Garamond + Noto Serif SC: name, headers, and body */
+
+/* Body text */
+body {
+  font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+}
+
+/* Masthead site title (top-left) */
+.masthead__menu-item--lg,
+.masthead__menu-item--lg a {
   font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
   font-weight: 600;
 }
 
+/* Sidebar author name */
+.sidebar .author__name {
+  font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+}
+
+/* Page title and all section headings */
 .page__title,
 .archive__item-title,
 h1, h2, h3, h4, h5, h6 {
