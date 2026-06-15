@@ -29,15 +29,12 @@ I'm a Ph.D student in Finance at Warwick Business School. I work on **Macro-Fina
 
 ## Teaching
 * **Warwick Business School**
+  Graduate Teaching Assistant, 2023-2026
 
-  **IB93F0 Research methodology, Msc in Finance**
-
-  Graduate Teaching Assistant, 2023-2025
+  **IB93F0 Data Analysis for Finance, Msc in Finance**
 
   **IB9520 Research methodology for Financial Management, Msc in Business & Finance**
 
-  Graduate Teaching Assistant, 2023-2025
-
   **IB2350 Finance 1: Financial Markets, BSc in Accounting & Finance**
 
-  Graduate Teaching Assistant, 2024-2025
+  **IB2660 Fundamentals of Finance, BSc in Accounting & Finance**
