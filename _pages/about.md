@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in Finance at Warwick Business School. I work on **International Finance**, **Asset Pricing**, and **Macro-Finance**.
+I'm a Ph.D student in Finance at Warwick Business School. I work on **Macro-Finance**, **International Finance**, and **Asset Pricing**. I served as a Technical Advisor at the Bank for International Settlements (Feb-Apr 2026).
 
 [CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_03.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
 
 ## Working Paper
-1. Who Captures AI Deflation? Quality-Adjusted Prices, Markups, and Pass-Through in AI Services. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426025)
+1. Who Captures AI Deflation? Quality-Adjusted Prices, Markups, and Pass-Through in AI Services. [Job Market Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426025)
 
 2. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (With <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
-
-    **Scheduled Presentations**: SFS Cavalcade NA (2026, VA), SGF (2026).
     
-    **Selected Presentations**: The Global AI Finance Research Conference 2025, Bank of Lithuania.
+    **Selected Presentations**: SFS Cavalcade NA (2026, VA), SGF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania.
 
 3. Foreign Exchange Interventions and Intermediary Constraints (with <a href="https://sites.google.com/usp.br/alexferreira/home" style="color: inherit;"><em>Alex Luiz Ferreira</em></a>, <a href="https://rorymullen.net/" style="color: inherit;"><em>Rory Mullen</em></a>, <a href="https://www.giovanni-ricco.com/" style="color: inherit;"><em>Giovanni Ricco</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307)
 
@@ -29,15 +27,14 @@ I'm a Ph.D student in Finance at Warwick Business School. I work on **Internatio
 ## Work in Progress
 1. Offshore Forwards in Emerging Markets: Speculation and Price Discovery
 
-
 ## Teaching
 * **Warwick Business School**
 
-  **IB93F0 Research Methdology, Msc in Finance**
+  **IB93F0 Research methodology, Msc in Finance**
 
   Graduate Teaching Assistant, 2023-2025
 
-  **IB9520 Research Methdology for Financial Management, Msc in Business & Finance**
+  **IB9520 Research methodology for Financial Management, Msc in Business & Finance**
 
   Graduate Teaching Assistant, 2023-2025
 
