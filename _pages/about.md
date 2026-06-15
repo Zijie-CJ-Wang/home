@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in Finance at Warwick Business School. I work on **Macro-Finance**, **International Finance**, and **Asset Pricing**. I served as a Technical Advisor at the Bank for International Settlements (Feb-Apr 2026).
+I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Finance**, **International Finance**, and **Asset Pricing**. I served as a Technical Advisor at the Bank for International Settlements (Feb-Apr 2026).
+
+I am on the 2026/2027 job market.
 
 [CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_03.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
