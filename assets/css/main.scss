@@ -8,7 +8,7 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import 
+@import
     "vendor/breakpoint/breakpoint",
 
     "themes",
@@ -40,3 +40,17 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Cormorant Garamond + Noto Serif SC for name and headers */
+.site-title,
+.author__name {
+  font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+  font-weight: 600;
+}
+
+.page__title,
+.archive__item-title,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+  font-weight: 600;
+}
