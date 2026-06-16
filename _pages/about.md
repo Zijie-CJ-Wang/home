@@ -17,6 +17,11 @@ I am on the 2026/2027 job market.
 ## Working Papers
 1. Who Captures AI Deflation? Quality-Adjusted Prices, Markups, and Pass-Through in AI Services. [Job Market Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426025)
 
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>Between falling compute costs and the firms that use AI stands an oligopoly. I build a novel dataset linking prices, usage, and capabilities to GPU rental costs for over 200 models competing on OpenRouter, a centralized AI marketplace. Structural demand estimates recover provider markups: pass-through of cost declines falls with market power, and the premium segment passes through nothing, retaining the declines as margin. Quality-adjusted prices still fell 78 percent over 2024--2026, twice the nominal price decline, cutting U.S. PPI by a cumulative 160 basis points through the production network. Entry of more capable models, not price cuts, drives consumer surplus gains.</p>
+    </details>
+
 2. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (With <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
     
     **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania.

@@ -23,3 +23,34 @@
 <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"> -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;600;700&display=swap&text=王子介">
+
+
+<style>
+details.abstract { margin: .5rem 0 1rem; }
+
+details.abstract > summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+details.abstract > summary::-webkit-details-marker { display: none; }
+details.abstract > summary::marker { content: ""; }
+
+details.abstract > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0; height: 0;
+  margin-right: .4rem;
+  transform: translateY(1px);
+  border-style: solid;
+  border-width: 6px 0 6px 9px;          /* closed: points right */
+  border-color: transparent transparent transparent currentColor;
+}
+details.abstract[open] > summary::before {
+  border-width: 9px 6px 0 6px;          /* open: points down */
+  border-color: currentColor transparent transparent transparent;
+}
+details.abstract > *:first-child { margin-top: 0; }
+</style>
