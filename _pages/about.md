@@ -49,6 +49,13 @@ I am on the 2026/2027 job market.
 
     **Selected Presentations**: WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the 2025 Oxford Saïd-VU SBE Macro-finance Conference, 2025 Annual Conference of the Money, Macro and Finance Society, 2024 CEPR Workshop on Macroeconomic Policy in Emerging Markets, 2024 CEBRA Annual Meeting.
 
+4. Captive Capital: How Private Equity Shapes Insurer Portfolios. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050698)
+
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>We provide the first systematic evidence on how private equity (PE) vertical integration - owning the insurer, managing the CLO, and sponsoring the underlying borrowers - shapes insurer portfolios and CLO collateral. Using a difference-in-differences design, we find that acquisition by a PE sponsor that also manages CLOs raises the insurer’s holdings of same-sponsor CLO tranches by roughly 20 percentage points within four years, whereas acquisition by a PE sponsor without a CLO platform produces a far smaller increase. Inside those CLOs, the three largest PE credit-platform sponsors allocate 5-8% of collateral to loans of their own portfolio companies. These effects compound at the most vertically integrated sponsor, whose affiliated insurers absorb a majority of insurer-held same-sponsor CLO principal and tilt toward riskier tranches.</p>
+    </details>
+
 ## Works in Progress
 1. Offshore Forwards in Emerging Markets: Speculation and Price Discovery
 
