@@ -11,7 +11,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
 
 I am on the 2026/2027 job market.
 
-[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_03.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
+[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_07.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
 
 ## Working Papers
