@@ -11,7 +11,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
 
 I am on the 2026/2027 job market.
 
-[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_07.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
+[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_09.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
 
 ## Working Papers
@@ -19,8 +19,10 @@ I am on the 2026/2027 job market.
 
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>Between falling compute costs and the firms that use AI stands an oligopoly. I build a novel dataset linking prices, usage, and capabilities to GPU rental costs for over 200 models competing on OpenRouter, a centralized AI marketplace. Structural demand estimates recover provider markups: pass-through of cost declines falls with market power, and the premium segment passes through nothing, retaining the declines as margin. Quality-adjusted prices still fell 78 percent over 2024--2026, twice the nominal price decline, cutting U.S. PPI by a cumulative 160 basis points through the production network. Entry of more capable models, not price cuts, drives consumer surplus gains.</p>
+      <p>Between falling computing costs and the firms that use AI stands an oligopoly. I build a novel dataset linking prices, usage, and capabilities to GPU rental costs for over 300 models competing on OpenRouter, a centralized AI marketplace. Structural demand estimates recover provider markups: pass-through of cost declines weakens with market power, and premium providers retain a larger share of cost reductions. Quality-adjusted prices fell by 77 percent over 2024–2026, twice the nominal price decline, cutting U.S. PPI by a cumulative 31 basis points through the production network. Entry of more capable models, rather than price cuts, drives consumer surplus gains.</p>
     </details>
+    
+    **Selected Presentations**: EFA Doctoral Tutorial 2026, Edinburgh Financial Technology Conference 2026, Fisher AI in Business Conference 2026 (scheduled).
 
 2. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (with <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
 
@@ -29,7 +31,7 @@ I am on the 2026/2027 job market.
       <p>Employing data from Polymarket, a blockchain-based prediction market where users trade on Federal Reserve rate decisions and scenarios related to central bank independence, we construct a hawk–dove score for wallets and link beliefs to monetary policy expectations. Users who believe President Trump will fire Fed Chair Powell, and who expect stronger political pressure on the central bank, hold more dovish views and expect lower short-term rates than other users. They also expect higher long-term Treasury yields and higher inflation, consistent with reduced policy credibility. The findings indicate that political events affect expectations through perceived threats to central bank independence.</p>
     </details>
     
-    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania.
+    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania, MMF 2026.
 
 3. Foreign Exchange Interventions and Intermediary Constraints (with <a href="https://sites.google.com/usp.br/alexferreira/home" style="color: inherit;"><em>Alex Luiz Ferreira</em></a>, <a href="https://rorymullen.net/" style="color: inherit;"><em>Rory Mullen</em></a>, <a href="https://www.giovanni-ricco.com/" style="color: inherit;"><em>Giovanni Ricco</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307)
 
@@ -56,8 +58,11 @@ I am on the 2026/2027 job market.
       <p>We provide the first systematic evidence on how private equity (PE) vertical integration - owning the insurer, managing the CLO, and sponsoring the underlying borrowers - shapes insurer portfolios and CLO collateral. Using a difference-in-differences design, we find that acquisition by a PE sponsor that also manages CLOs raises the insurer’s holdings of same-sponsor CLO tranches by roughly 20 percentage points within four years, whereas acquisition by a PE sponsor without a CLO platform produces a far smaller increase. Inside those CLOs, the three largest PE credit-platform sponsors allocate 5-8% of collateral to loans of their own portfolio companies. These effects compound at the most vertically integrated sponsor, whose affiliated insurers absorb a majority of insurer-held same-sponsor CLO principal and tilt toward riskier tranches.</p>
     </details>
 
-## Works in Progress
-1. Offshore Forwards in Emerging Markets: Speculation and Price Discovery
+5. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Draft available upon request]
+
+    **Selected Presentations**: MMF 2026.
+
+
 
 ## Teaching
 **Graduate Teaching Assistant, Warwick Business School**
