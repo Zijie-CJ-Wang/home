@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Finance**, **International Finance**, and **Asset Pricing**. I served as a Technical Advisor at the Bank for International Settlements (Feb-Apr 2026).
+I'm a Ph.D candidate in Finance at Warwick Business School. I work on **AI and Finance**, **Macro-Finance**, **International Finance**, and **Asset Pricing**. I served as a Technical Advisor at the Bank for International Settlements (Feb-Apr 2026).
 
 I am on the 2026/2027 job market.
 
