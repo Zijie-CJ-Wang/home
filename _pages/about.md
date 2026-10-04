@@ -49,7 +49,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **AI and F
       <p>Employing data from Polymarket, a blockchain-based prediction market where users trade on Federal Reserve rate decisions and scenarios related to central bank independence, we construct a hawk–dove score for wallets and link beliefs to monetary policy expectations. Users who believe President Trump will fire Fed Chair Powell, and who expect stronger political pressure on the central bank, hold more dovish views and expect lower short-term rates than other users. They also expect higher long-term Treasury yields and higher inflation, consistent with reduced policy credibility. The findings indicate that political events affect expectations through perceived threats to central bank independence.</p>
     </details>
     
-    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania, MMF 2026.
+    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania.
 
 4. Captive Capital: How Private Equity Shapes Insurer Portfolios (with <a href="https://sites.google.com/site/lorenzobretscher/home" style="color: inherit;"><em>Lorenzo Bretscher</em></a>, <a href="https://sites.google.com/view/philippemueller" style="color: inherit;"><em>Philippe Mueller</em></a>, and <a href="https://ktodorov.com/" style="color: inherit;"><em>Karamfil Todorov</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050698)
 
@@ -57,6 +57,9 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **AI and F
       <summary>Abstract</summary>
       <p>We provide the first systematic evidence on how private equity (PE) vertical integration - owning the insurer, managing the CLO, and sponsoring the underlying borrowers - shapes insurer portfolios and CLO collateral. Using a difference-in-differences design, we find that acquisition by a PE sponsor that also manages CLOs raises the insurer’s holdings of same-sponsor CLO tranches by roughly 20 percentage points within four years, whereas acquisition by a PE sponsor without a CLO platform produces a far smaller increase. Inside those CLOs, the three largest PE credit-platform sponsors allocate 5-8% of collateral to loans of their own portfolio companies. These effects compound at the most vertically integrated sponsor, whose affiliated insurers absorb a majority of insurer-held same-sponsor CLO principal and tilt toward riskier tranches.</p>
     </details>
+
+    **Selected Presentations**: BIS.
+
 
 5. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Draft available upon request]
 
