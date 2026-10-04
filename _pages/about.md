@@ -9,9 +9,9 @@ redirect_from:
 
 I'm a Ph.D candidate in Finance at Warwick Business School. I work on **AI and Finance**, **Macro-Finance**, **International Finance**, and **Asset Pricing**. I served as a Technical Advisor at the Bank for International Settlements (Feb-Apr 2026).
 
-I am on the 2026/2027 job market.
+**I am on the 2026/2027 job market.**
 
-[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_09.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
+[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_10.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
 
 ## Working Papers
@@ -24,16 +24,7 @@ I am on the 2026/2027 job market.
     
     **Selected Presentations**: EFA Doctoral Tutorial 2026, Edinburgh Financial Technology Conference 2026, Fisher AI in Business Conference 2026 (scheduled), AFA PhD Poster (scheduled).
 
-2. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (with <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
-
-    <details class="abstract">
-      <summary>Abstract</summary>
-      <p>Employing data from Polymarket, a blockchain-based prediction market where users trade on Federal Reserve rate decisions and scenarios related to central bank independence, we construct a hawk–dove score for wallets and link beliefs to monetary policy expectations. Users who believe President Trump will fire Fed Chair Powell, and who expect stronger political pressure on the central bank, hold more dovish views and expect lower short-term rates than other users. They also expect higher long-term Treasury yields and higher inflation, consistent with reduced policy credibility. The findings indicate that political events affect expectations through perceived threats to central bank independence.</p>
-    </details>
-    
-    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania, MMF 2026.
-
-3. Foreign Exchange Interventions and Intermediary Constraints (with <a href="https://sites.google.com/usp.br/alexferreira/home" style="color: inherit;"><em>Alex Luiz Ferreira</em></a>, <a href="https://rorymullen.net/" style="color: inherit;"><em>Rory Mullen</em></a>, <a href="https://www.giovanni-ricco.com/" style="color: inherit;"><em>Giovanni Ricco</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307)
+2. Foreign Exchange Interventions and Intermediary Constraints (with <a href="https://sites.google.com/usp.br/alexferreira/home" style="color: inherit;"><em>Alex Ferreira</em></a>, <a href="https://rorymullen.net/" style="color: inherit;"><em>Rory Mullen</em></a>, <a href="https://www.giovanni-ricco.com/" style="color: inherit;"><em>Giovanni Ricco</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307) 
 
     <details class="abstract">
       <summary>Abstract</summary>
@@ -49,7 +40,16 @@ I am on the 2026/2027 job market.
       effectiveness.</p>
     </details>
 
-    **Selected Presentations**: WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the 2025 Oxford Saïd-VU SBE Macro-finance Conference, 2025 Annual Conference of the Money, Macro and Finance Society, 2024 CEPR Workshop on Macroeconomic Policy in Emerging Markets, 2024 CEBRA Annual Meeting.
+    **Selected Presentations**: BIS--BoE--ECB--IMF Spillover Conference (2026), WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the Oxford Saïd-VU SBE Macro-finance Conference (2025), MMF (2025), 2024 CEPR Workshop on Macroeconomic Policy in Emerging Markets, CEBRA Annual Meeting (2024).
+
+3. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (with <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
+
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>Employing data from Polymarket, a blockchain-based prediction market where users trade on Federal Reserve rate decisions and scenarios related to central bank independence, we construct a hawk–dove score for wallets and link beliefs to monetary policy expectations. Users who believe President Trump will fire Fed Chair Powell, and who expect stronger political pressure on the central bank, hold more dovish views and expect lower short-term rates than other users. They also expect higher long-term Treasury yields and higher inflation, consistent with reduced policy credibility. The findings indicate that political events affect expectations through perceived threats to central bank independence.</p>
+    </details>
+    
+    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania, MMF 2026.
 
 4. Captive Capital: How Private Equity Shapes Insurer Portfolios (with <a href="https://sites.google.com/site/lorenzobretscher/home" style="color: inherit;"><em>Lorenzo Bretscher</em></a>, <a href="https://sites.google.com/view/philippemueller" style="color: inherit;"><em>Philippe Mueller</em></a>, and <a href="https://ktodorov.com/" style="color: inherit;"><em>Karamfil Todorov</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050698)
 
@@ -60,7 +60,7 @@ I am on the 2026/2027 job market.
 
 5. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Draft available upon request]
 
-    **Selected Presentations**: MMF 2026.
+    **Selected Presentations**: LCH ForexClear, MMF (2026).
 
 
 
