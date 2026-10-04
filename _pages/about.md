@@ -40,7 +40,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
       effectiveness.</p>
     </details>
 
-    **Selected Presentations**: BIS--BoE--ECB--IMF Spillover Conference (2026), WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the Oxford Saïd-VU SBE Macro-finance Conference (2025), MMF (2025), 2024 CEPR Workshop on Macroeconomic Policy in Emerging Markets, CEBRA Annual Meeting (2024).
+    **Selected Presentations**: BIS--BoE--ECB--IMF Spillover Conference (2026), WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the Oxford Saïd-VU SBE Macro-finance Conference (2025), MMF (2025), CEPR Workshop on Macroeconomic Policy in Emerging Markets (2024), CEBRA Annual Meeting (2024).
 
 3. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (with <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
 
@@ -49,7 +49,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
       <p>Employing data from Polymarket, a blockchain-based prediction market where users trade on Federal Reserve rate decisions and scenarios related to central bank independence, we construct a hawk–dove score for wallets and link beliefs to monetary policy expectations. Users who believe President Trump will fire Fed Chair Powell, and who expect stronger political pressure on the central bank, hold more dovish views and expect lower short-term rates than other users. They also expect higher long-term Treasury yields and higher inflation, consistent with reduced policy credibility. The findings indicate that political events affect expectations through perceived threats to central bank independence.</p>
     </details>
     
-    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference 2025, Bank of Lithuania.
+    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference (2025), Bank of Lithuania.
 
 4. Captive Capital: How Private Equity Shapes Insurer Portfolios (with <a href="https://sites.google.com/site/lorenzobretscher/home" style="color: inherit;"><em>Lorenzo Bretscher</em></a>, <a href="https://sites.google.com/view/philippemueller" style="color: inherit;"><em>Philippe Mueller</em></a>, and <a href="https://ktodorov.com/" style="color: inherit;"><em>Karamfil Todorov</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050698)
 
