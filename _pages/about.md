@@ -63,6 +63,11 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
 
 5. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [BIS WP](https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets)
 
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread. To our knowledge, this is the first transaction-level evidence on price formation in these markets. A $1 billion long-USD order flow depreciates the domestic spot rate by about 10 basis points and the offshore NDF rate by about 18 basis points. The spot impact is larger when dealer balance sheets are tight. Policy episodes in the Chinese renminbi, Malaysian ringgit, and Indian rupee show how changes in offshore speculative activity and arbitrage between offshore and onshore markets affect the spread and domestic exchange rates. We rationalize these findings with a model in which offshore demand pressure generates NDF order flow, dealers hedge inventory through domestic spot markets, and capital controls limit intermediation between offshore and onshore forward markets.</p>
+    </details>
+    
     **Selected Presentations**: LCH ForexClear, MMF (2026)
 
 
