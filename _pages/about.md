@@ -11,7 +11,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
 
 **I am on the 2026/2027 job market.**
 
-[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_10.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
+[CV](https://github.com/Zijie-CJ-Wang/home/blob/master/files/CV_Zijie_Wang_2026_11.pdf)  &emsp; [zijie.wang.1@warwick.ac.uk](zijie.wang.1@warwick.ac.uk) 
 
 
 ## Working Papers
@@ -19,7 +19,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
 
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>This paper asks how changes in computing costs, and the gains from more capable AI, are divided between AI providers and downstream firms. Because AI inference consumes GPU time, the price of computing enters the marginal cost of AI services. How much of a change in computing costs reaches downstream firms depends on provider market power. I link GPU rental rates to the prices, usage, and capabilities of more than 300 models on OpenRouter, an AI marketplace. I construct a constant-quality price index for AI services, which fell by 77 percent over 2024--2026, twice the decline in nominal prices. A structural demand model recovers provider markups. Pass-through falls as markups rise: a 10 percent change in GPU rental rates moves quality-adjusted prices by about 2 percent on average, against 3 percent at zero markup. Providers capture most of the surplus lost to market power, while downstream firms gain mainly through new, more capable models. Using U.S. input--output tables, I estimate that an index of producer prices was about 31 basis points lower in April 2026 than if quality-adjusted AI prices had stayed at their late-2024 level.</p>
+      <p>This paper studies how changes in computing costs affect the price of AI services and the distribution of gains between AI providers and downstream firms. Because AI inference consumes GPU time, the price of computing enters the marginal cost of AI services, and how much of a change reaches downstream firms depends on provider market power. I link daily GPU rental rates to the prices, usage, and capabilities of more than 300 models on OpenRouter, an AI marketplace, and estimate a structural demand model that recovers provider markups. I present three findings. First, a constant-quality price index for AI services fell by 77 percent over 2024–2026, twice the decline in nominal prices. Second, pass-through declines with market power: a 10 percent change in GPU rental rates moves quality-adjusted prices by about 2 percent on average, compared with 3 percent in a zero-markup counterfactual. Providers capture much of the surplus transferred through market power, while downstream firms benefit mainly from the introduction of new, more capable models rather than price reductions on existing models. Third, using U.S. input–output tables, I estimate that an index of producer prices was about 31 basis points lower in April 2026 than if quality-adjusted AI prices had remained at their late-2024 level.</p>
     </details>
     
     **Selected Presentations**: EFA Doctoral Tutorial (2026), Edinburgh Financial Technology Conference (2026), Fisher AI in Business Conference (2026), AFA PhD Poster (2027, scheduled)
