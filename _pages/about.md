@@ -22,7 +22,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
       <p>This paper studies how changes in computing costs affect the price of AI services and the distribution of gains between AI providers and downstream firms. Because AI inference consumes GPU time, the price of computing enters the marginal cost of AI services, and how much of a change reaches downstream firms depends on provider market power. I link daily GPU rental rates to the prices, usage, and capabilities of more than 300 models on OpenRouter, an AI marketplace, and estimate a structural demand model that recovers provider markups. I present three findings. First, a constant-quality price index for AI services fell by 77 percent over 2024–2026, twice the decline in nominal prices. Second, pass-through declines with market power: a 10 percent change in GPU rental rates moves quality-adjusted prices by about 2 percent on average, compared with 3 percent in a zero-markup counterfactual. Providers capture much of the surplus transferred through market power, while downstream firms benefit mainly from the introduction of new, more capable models rather than price reductions on existing models. Third, using U.S. input–output tables, I estimate that an index of producer prices was about 31 basis points lower in April 2026 than if quality-adjusted AI prices had remained at their late-2024 level.</p>
     </details>
     
-    **Selected Presentations**: EFA Doctoral Tutorial (2026), Edinburgh Financial Technology Conference (2026), Fisher AI in Business Conference (2026), AFA PhD Poster (2027, scheduled)
+    **Presentations**: EFA Doctoral Tutorial (2026), Edinburgh Financial Technology Conference (2026), Fisher AI in Business Conference (2026), AFA PhD Poster (2027, scheduled)
 
 2. Foreign Exchange Interventions and Intermediary Constraints (with <a href="https://sites.google.com/usp.br/alexferreira/home" style="color: inherit;"><em>Alex Ferreira</em></a>, <a href="https://rorymullen.net/" style="color: inherit;"><em>Rory Mullen</em></a>, <a href="https://www.giovanni-ricco.com/" style="color: inherit;"><em>Giovanni Ricco</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976307) 
 
@@ -40,7 +40,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
       effectiveness.</p>
     </details>
 
-    **Selected Presentations**: BIS--BoE--ECB--IMF Spillover Conference (2026), WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the Oxford Saïd-VU SBE Macro-finance Conference (2025), MMF (2025), CEPR Workshop on Macroeconomic Policy in Emerging Markets (2024), CEBRA Annual Meeting (2024)
+    **Presentations**: BIS--BoE--ECB--IMF Spillover Conference (2026), WFA (2025), SFS Cavalcade NA (2025), European Central Bank, Brazilian Central Bank, the Oxford Saïd-VU SBE Macro-finance Conference (2025), MMF (2025), CEPR Workshop on Macroeconomic Policy in Emerging Markets (2024), CEBRA Annual Meeting (2024)
 
 3. Under Pressure? Central Bank Independence Meets Blockchain Prediction Markets (with <a href="https://eml.berkeley.edu/~eichengr/index.shtml" style="color: inherit;"><em>Barry Eichengreen</em></a>, <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>, and <a href="https://sites.google.com/view/junxuanwang" style="color: inherit;"><em>Junxuan Wang</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366862) [VoxEU](https://cepr.org/voxeu/columns/under-pressure-central-bank-independence-meets-blockchain-prediction-markets)
 
@@ -49,9 +49,20 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
       <p>Employing data from Polymarket, a blockchain-based prediction market where users trade on Federal Reserve rate decisions and scenarios related to central bank independence, we construct a hawk–dove score for wallets and link beliefs to monetary policy expectations. Users who believe President Trump will fire Fed Chair Powell, and who expect stronger political pressure on the central bank, hold more dovish views and expect lower short-term rates than other users. They also expect higher long-term Treasury yields and higher inflation, consistent with reduced policy credibility. The findings indicate that political events affect expectations through perceived threats to central bank independence.</p>
     </details>
     
-    **Selected Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference (2025), Bank of Lithuania, AEA (2027, scheduled)
+    **Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference (2025), Bank of Lithuania, AEA (2027, scheduled)
 
-4. Captive Capital: How Private Equity Shapes Insurer Portfolios (with <a href="https://sites.google.com/site/lorenzobretscher/home" style="color: inherit;"><em>Lorenzo Bretscher</em></a>, <a href="https://sites.google.com/view/philippemueller" style="color: inherit;"><em>Philippe Mueller</em></a>, and <a href="https://ktodorov.com/" style="color: inherit;"><em>Karamfil Todorov</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050698)
+    **Companion paper**:  forthcoming in </em>AEA Papers and Proceedings</em>
+
+4. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [BIS WP](https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets)
+
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread. To our knowledge, this is the first transaction-level evidence on price formation in these markets. A $1 billion long-USD order flow depreciates the domestic spot rate by about 10 basis points and the offshore NDF rate by about 18 basis points. The spot impact is larger when dealer balance sheets are tight. Policy episodes in the Chinese renminbi, Malaysian ringgit, and Indian rupee show how changes in offshore speculative activity and arbitrage between offshore and onshore markets affect the spread and domestic exchange rates. We rationalize these findings with a model in which offshore demand pressure generates NDF order flow, dealers hedge inventory through domestic spot markets, and capital controls limit intermediation between offshore and onshore forward markets.</p>
+    </details>
+    
+    **Presentations**: LCH ForexClear, MMF (2026)
+
+5. Captive Capital: How Private Equity Shapes Insurer Portfolios (with <a href="https://sites.google.com/site/lorenzobretscher/home" style="color: inherit;"><em>Lorenzo Bretscher</em></a>, <a href="https://sites.google.com/view/philippemueller" style="color: inherit;"><em>Philippe Mueller</em></a>, and <a href="https://ktodorov.com/" style="color: inherit;"><em>Karamfil Todorov</em></a>). [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050698)
 
     <details class="abstract">
       <summary>Abstract</summary>
@@ -59,18 +70,6 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
     </details>
 
     **Selected Presentations**: BIS
-
-
-5. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [BIS WP](https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets)
-
-    <details class="abstract">
-      <summary>Abstract</summary>
-      <p>We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data on the universe of centrally cleared NDFs for ten emerging-market currencies over 2013–2025, we show that offshore NDF order flow moves both offshore forward and domestic spot exchange rates and widens the offshore–onshore forward spread. To our knowledge, this is the first transaction-level evidence on price formation in these markets. A $1 billion long-USD order flow depreciates the domestic spot rate by about 10 basis points and the offshore NDF rate by about 18 basis points. The spot impact is larger when dealer balance sheets are tight. Policy episodes in the Chinese renminbi, Malaysian ringgit, and Indian rupee show how changes in offshore speculative activity and arbitrage between offshore and onshore markets affect the spread and domestic exchange rates. We rationalize these findings with a model in which offshore demand pressure generates NDF order flow, dealers hedge inventory through domestic spot markets, and capital controls limit intermediation between offshore and onshore forward markets.</p>
-    </details>
-    
-    **Selected Presentations**: LCH ForexClear, MMF (2026)
-
-
 
 ## Teaching
 **Graduate Teaching Assistant, Warwick Business School**
