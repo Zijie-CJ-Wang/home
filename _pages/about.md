@@ -51,7 +51,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
     
     **Presentations**: SFS Cavalcade NA (2026), SGF (2026), MMF (2026), The Global AI Finance Research Conference (2025), Bank of Lithuania, AEA (2027, scheduled)
 
-    **Companion paper**:  forthcoming in </em>AEA Papers and Proceedings</em>
+    **Companion paper**:  forthcoming in <em>AEA Papers and Proceedings</em>
 
 4. Offshore Forwards and Exchange Rate Transmission in Emerging Markets (with <a href="http://www.gerardoferrara.com/" style="color: inherit;"><em>Gerardo Ferrara</em></a>, <a href="https://sites.google.com/site/schrimpfandreas/about-me" style="color: inherit;"><em>Andreas Schrimpf</em></a>, and <a href="https://ganeshvnatraj.netlify.app/" style="color: inherit;"><em>Ganesh Viswanath-Natraj</em></a>). [BIS WP](https://www.bis.org/publications/working-paper-1383-offshore-forwards-and-exchange-rate-transmission-emerging-markets)
 
