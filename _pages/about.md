@@ -69,7 +69,7 @@ I'm a Ph.D candidate in Finance at Warwick Business School. I work on **Macro-Fi
       <p>We provide the first systematic evidence on how private equity (PE) vertical integration - owning the insurer, managing the CLO, and sponsoring the underlying borrowers - shapes insurer portfolios and CLO collateral. Using a difference-in-differences design, we find that acquisition by a PE sponsor that also manages CLOs raises the insurer’s holdings of same-sponsor CLO tranches by roughly 20 percentage points within four years, whereas acquisition by a PE sponsor without a CLO platform produces a far smaller increase. Inside those CLOs, the three largest PE credit-platform sponsors allocate 5-8% of collateral to loans of their own portfolio companies. These effects compound at the most vertically integrated sponsor, whose affiliated insurers absorb a majority of insurer-held same-sponsor CLO principal and tilt toward riskier tranches.</p>
     </details>
 
-    **Selected Presentations**: BIS
+    **Presentations**: BIS
 
 ## Teaching
 **Graduate Teaching Assistant, Warwick Business School**
